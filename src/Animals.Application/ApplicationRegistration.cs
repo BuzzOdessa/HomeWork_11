@@ -1,6 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using System.Reflection;
 
+
 namespace Animals.Application;
 
 public static class ApplicationRegistration

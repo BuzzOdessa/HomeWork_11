@@ -2,6 +2,7 @@
 using Animals.Core.Domain.Models;
 using Animals.Persistence.Core.Animals.DataProvider;
 
+
 namespace Animals.Infrastructure.Core.Domain.Animals.Common;
 
 public class AnimalsRepository(IAnimalsDataProvider animalsDataProvider) : IAnimalsRepository

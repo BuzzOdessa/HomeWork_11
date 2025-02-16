@@ -1,5 +1,6 @@
 ﻿using Animals.Core.Domain.Models;
 
+
 namespace Animals.Persistence.Core.Animals.DataProvider;
 
 public interface IAnimalsDataProvider

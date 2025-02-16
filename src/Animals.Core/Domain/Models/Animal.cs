@@ -11,7 +11,7 @@ public class Animal : IAggregateRoot
 {
     // please leave it as is for Entity Framework. It needs it for materialization of entities.
     // read about it here: https://docs.microsoft.com/en-us/ef/core/modeling/constructors
-    public Animal()
+    private Animal()
     {
     }
 
